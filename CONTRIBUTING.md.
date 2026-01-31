@@ -1,0 +1,6 @@
+​🤝 Contributing to Transparent Future Mangoluvzu
+​Thank you for your interest in the 5D Octonion Resonance Engine! We welcome researchers and developers to help us perfect this framework.
+​📏 Guidelines for Contributors
+​Math Integrity: Do not alter core constants (\Omega, 1.25, or -0.00065) without a peer-reviewed proposal in the Issues tab.
+​Python Standards: All code must pass the Bandit security scan you see in our GitHub Actions.
+​Documentation: If you add a feature, please update the White Paper or Glossary accordingly.
